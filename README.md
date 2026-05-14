@@ -1,10 +1,5 @@
 1. SKILL.md
 
----
-name: feishu-to-obsidian
-version: 1.0.0
-description: "飞书内容导入 Obsidian：支持飞书云文档、妙记、电子表格等飞书内容自动获取并保存到本地 Obsidian vault"
----
 
 # 飞书内容导入 Obsidian
 
